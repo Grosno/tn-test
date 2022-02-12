@@ -1,0 +1,25 @@
+{
+  "name": "tn-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint src",
+    "eslint:fix": "eslint src --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grosno/tn-test.git"
+  },
+  "author": "Albert Gabdrakhmanov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Grosno/tn-test/issues"
+  },
+  "homepage": "https://github.com/Grosno/tn-test#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.5",
+    "gulp": "^4.0.2"
+  }
+}
